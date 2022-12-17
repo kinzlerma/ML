@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/14aa7d89be2a415d92f8bf9bac4e1611/artifacts
+end_time: 1671312520273
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 14aa7d89be2a415d92f8bf9bac4e1611
+run_uuid: 14aa7d89be2a415d92f8bf9bac4e1611
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671312517826
+status: 3
+tags: []
+user_id: maxim
